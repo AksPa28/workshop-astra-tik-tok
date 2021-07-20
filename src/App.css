@@ -155,6 +155,10 @@ button {
     float: right;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 
 /* Styling for Card Components */
 .card {
